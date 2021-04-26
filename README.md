@@ -21,3 +21,12 @@ Since the dataset is so large, we were unable to upload it to github. You will h
 5. Discard the `Classifiers.zip` file.
 
 After doing this our project should run.
+
+# Project Contributions
+
+Koya: 
+- Managed git repo
+- Created SVM classifier function
+- Created algorithm for breaking scene into sections
+- Fitted CNN classifier
+- Wrote slides
