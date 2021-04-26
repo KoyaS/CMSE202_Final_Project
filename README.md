@@ -33,6 +33,6 @@ After doing this our project should run.
 # Brett:
 - Helped read in data
 - Helped tidy and format RGB data
-- Set up and tested PCA
-- Used SVM to compare classifiers
+- Set up PCA
+- Used SVM to compare PCA accuracy
 - Wrote slides
