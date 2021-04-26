@@ -30,3 +30,9 @@ Koya:
 - Created algorithm for breaking scene into sections
 - Fitted CNN classifier
 - Wrote slides
+Brett:
+- Helped read in data
+- Helped tidy and format RGB data
+- Set up and tested PCA
+- Used SVM to compare classifiers
+- Wrote slides
