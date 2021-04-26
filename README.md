@@ -29,7 +29,7 @@ Koya:
 - Created SVM classifier function
 - Created algorithm for breaking scene into sections
 - Fitted CNN classifier
-- Wrote slides
+- Wrote slides  \ 
 Brett:
 - Helped read in data
 - Helped tidy and format RGB data
