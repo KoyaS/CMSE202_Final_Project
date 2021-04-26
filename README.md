@@ -24,13 +24,13 @@ After doing this our project should run.
 
 # Project Contributions
 
-Koya: 
+# Koya: 
 - Managed git repo
 - Created SVM classifier function
 - Created algorithm for breaking scene into sections
 - Fitted CNN classifier
-- Wrote slides  \ 
-Brett:
+- Wrote slides  
+# Brett:
 - Helped read in data
 - Helped tidy and format RGB data
 - Set up and tested PCA
