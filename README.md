@@ -36,3 +36,10 @@ After doing this our project should run.
 - Set up and tested PCA
 - Used SVM to compare PCA accuracy to other classifiers
 - Wrote slides
+
+# Sungyu 
+- Helped read in data
+- Helped format data for training
+- Created SVM classifier function for rgb images
+- Helped organize zoom meetings
+- Helped create the google slides
